@@ -5,3 +5,5 @@ function invertiStringa(stringa) {
 const input = "ciao - o ciao mamma";
 const stringaInvertita = invertiStringa(input);
 console.log(stringaInvertita); // Stampa "ammam o- oaic"
+
+console.log("Ciamo mamma ");
